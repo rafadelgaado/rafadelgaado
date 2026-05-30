@@ -21,7 +21,6 @@
 - 🎓 Estudiante de **Ingeniería Informática** y desarrollador autodidacta
 - 🚀 He desplegado aplicaciones en producción con **+200 usuarios reales**
 - 🔧 Me gusta entender todo el stack: del frontend al servidor, del código al hierro
-- 🌍 Basado en **Montilla, España**
 - 💼 Disponible para **proyectos freelance**
 
 ---
